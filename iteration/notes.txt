@@ -1,0 +1,2 @@
+run benchmark tests:
+go test -bench=.
